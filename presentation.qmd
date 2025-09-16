@@ -1,0 +1,38 @@
+---
+title: "Basic Functions Presentation"
+author: "DSCI_521_Group_4"
+format: 
+  revealjs: default
+  html: default
+editor: visual
+execute:
+  echo: true
+---
+
+## 
+
+# Printing
+
+```{r}
+print("Hello World!")
+```
+
+# Concatenate!
+
+```{r}
+x <- c(1, 2, 3)
+y <- c(4, 5)
+
+z <- c(x, y, 6)
+print(z)
+```
+
+# Calculations!
+
+```{r}
+1 + 1
+```
+
+# Final Page!
+
+Thank You!
